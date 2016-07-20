@@ -1,18 +1,30 @@
-typography_spectrum: 0.947018
+author:
+  name: Chiemi Ma
+  url: thegrid.ai/chiemi
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.6015541
-  lightness: 0.4393365
+  saturation: 1
   brandStrength: 0.1601035
-  rhythmicContrast: 0.7251073
+  lightness: 1
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-layout_spectrum: 1
-author:
-  name: Chiemi Ma
-  url: thegrid.ai/chiemi
-name: Chiemi
+  rhythmicContrast: 1
+typography_spectrum: 0.947018
 navigation: []
+layout_spectrum: 1
+name: Chiemi
