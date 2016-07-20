@@ -12,8 +12,4 @@ color:
     - '#DD403A'
 typography_spectrum: 0.947018
 name: Chiemi
-navigation:
-  - id: 'http://chiemima.com'
-    url: 'http://chiemima.com'
-    name: About Chiemi
-    type: external
+navigation: []
