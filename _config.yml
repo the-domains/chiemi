@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6015541
+  lightness: 0.4393365
+  brandStrength: 0.1601035
+  rhythmicContrast: 0.7251073
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.947018
+name: Chiemi
