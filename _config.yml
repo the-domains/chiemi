@@ -1,4 +1,4 @@
-layout_spectrum: 1
+typography_spectrum: 0.947018
 color:
   saturation: 0.6015541
   lightness: 0.4393365
@@ -10,6 +10,9 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-typography_spectrum: 0.947018
+layout_spectrum: 1
+author:
+  name: Chiemi Ma
+  url: ''
 name: Chiemi
 navigation: []
